@@ -21,3 +21,5 @@
 /.classpath
 /.project
 /org.eclipse*
+/OpenRQ/target/
+/target/
